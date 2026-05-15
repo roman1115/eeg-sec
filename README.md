@@ -23,7 +23,7 @@ The framework consists of:
 ## Framework
 
 <p align="center">
-  <img src="assets/framework.png" width="900"/>
+  <img src="assets/fig1.framework.png" width="900"/>
 </p>
 
 Overall framework of the proposed EEG-conditioned speech emotion conversion system.  
