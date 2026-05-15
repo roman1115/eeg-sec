@@ -3,7 +3,6 @@
 Official PyTorch implementation of EEG-conditioned speech emotion conversion.
 
 [![Demo](https://img.shields.io/badge/Demo-Online-green)](https://roman1115.github.io/eeg-sec-demo/)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red)]()
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
 
 ---
