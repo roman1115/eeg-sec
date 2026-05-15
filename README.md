@@ -1,4 +1,4 @@
-# EEG-Conditioned Speech Emotion Conversion
+# Learning Cross-Modal Emotional Representations for EEG-Conditioned Speech Emotion Conversion
 
 Official PyTorch implementation of EEG-conditioned speech emotion conversion.
 
